@@ -1,0 +1,5 @@
+#0B0C10 Black
+#1F2833 Dark Gray
+#C5C6C7 Light Gray
+#66FCF1 Light Blue
+#45A29E Blue
